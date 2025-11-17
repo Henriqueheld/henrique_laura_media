@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  background: #ccf6fc;
+  background: #ccf6fc;
+  background: #e4eded;
+background: #74e3ba;
+background: linear-gradient(25deg, rgba(116, 227, 186, 1) 0%, rgba(242, 231, 155, 1) 37%, rgba(235, 193, 185, 1) 60%, rgba(230, 184, 230, 1) 79%, rgba(222, 118, 196, 1) 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h2{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-bottom: 20px;
+   
+}
